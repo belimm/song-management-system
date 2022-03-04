@@ -14,7 +14,9 @@ In this project, datas are stored in a simple .txt file in local.
 
 Functional Requirements of this project are shown in below
 
-<h3>Functional Requirements/>
+<h2>Functional Requirements</h2>
+
+
 1) User should be able to a new song to the song list.
 2) User should be able to delete a song in the song list.
 3) User should be able to show songs in the song list.

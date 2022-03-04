@@ -22,5 +22,7 @@ FReqs
 5) User should be able to create a playlist for herself/himself
   5.1) When s/he create a playlist the new .txt file appears in the source code's path with the songs.
   
+  
+<h2>  Sample run as shown below</h2>
   <img width="495" alt="image" src="https://user-images.githubusercontent.com/76854271/156807557-2335726f-fa43-4646-bc3e-8bfcf23e57a7.png">
 

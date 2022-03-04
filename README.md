@@ -22,7 +22,7 @@ Functional Requirements of this project are shown in below
 3) User should be able to show songs in the song list.
 4) User should be able to search for a song in the list.
 5) User should be able to create a playlist for herself/himself
-  5.1) When s/he create a playlist the new .txt file appears in the source code's path with the songs.
+5.1) When s/he create a playlist the new .txt file appears in the source code's path with the songs.
   
   
 <h2>  Sample run as shown below</h2>

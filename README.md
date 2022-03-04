@@ -1,5 +1,10 @@
 # song-management-system
-Song management system by using linked list data structure
+
+Create date:10/2019
+Author: Berk Limoncu
+
+Basic console application.
+Song management system by using linked list data structure.
 
 
 
